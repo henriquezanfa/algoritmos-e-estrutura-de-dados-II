@@ -1,0 +1,11 @@
+CRIAR ENCADEAMENTO 11
+INSERIR cor azul
+INSERIR cidade campinas
+INSERIR nome fernando
+INSERIR universidade ufabc
+INSERIR curso computacao
+QUANTIDADE
+APAGAR curso
+BUSCAR curso
+QUANTIDADE
+FIM
